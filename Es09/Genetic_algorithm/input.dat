@@ -1,0 +1,11 @@
+100
+32
+500
+0
+
+  ReadInput >> N_p;
+  ReadInput >> N_c;
+  ReadInput >> N_gen
+  ReadInput >> rect;
+	
+  
