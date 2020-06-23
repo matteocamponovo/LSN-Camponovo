@@ -1,0 +1,11 @@
+0.81
+0.615
+1
+100
+20000
+
+  ReadInput >> mu;
+  ReadInput >> sigma;
+  ReadInput >> delta;
+  ReadInput >> nblk;
+  ReadInput >> nstep;
