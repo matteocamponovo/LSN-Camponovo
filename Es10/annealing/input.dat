@@ -1,0 +1,9 @@
+32
+100000
+1
+
+  ReadInput >> N_c;
+  ReadInput >> nstep;
+  ReadInput >> rect;
+	
+  
